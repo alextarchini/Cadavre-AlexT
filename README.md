@@ -5,7 +5,7 @@
 ## This is an <h2> tag
 ###### This is an <h5> tag
 
-##Emphasis:
+## Emphasis:
 *This text will be italic*
 _This will also be italic_
 
@@ -14,9 +14,9 @@ __This will also be bold__
 
 _You **can** combile them_
 
-##Lists:
+## Lists:
 
-###Unordered:
+### Unordered:
 *Item 1
 *Item 2
     *Item 2a
@@ -29,21 +29,21 @@ _You **can** combile them_
    1. Item 3a
    1. Item 3b
 
-##Images
+## Images
 ![GitHub Logo] (/images/logo.png)
 Format: ![Alt Text] (url)
 
-##Links
+## Links
 http://github.com - automatic!
 [GitHub] (http://github.com)
 
-##Blockquotes
+## Blockquotes
 As Alex T said:
 
 >We are living the future so
 > the present is our pas.
 
-##Inline code
+## Inline code
 I think you should use an
 '<addr>' element here instead.
     
@@ -53,7 +53,7 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-##Emojis
+## Emojis
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
-####Reference: https://guides.github.com/features/mastering-markdown/
+#### Reference: https://guides.github.com/features/mastering-markdown/
