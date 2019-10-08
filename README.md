@@ -47,7 +47,7 @@ As Alex T said:
 I think you should use an
 '<addr>' element here instead.
     
-##Tables
+## Tables
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
