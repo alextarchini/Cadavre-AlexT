@@ -1,6 +1,6 @@
 # The Markdown
 
-##Headers:
+## Headers:
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h5> tag
@@ -17,12 +17,12 @@ _You **can** combile them_
 ## Lists:
 
 ### Unordered:
-*Item 1
-*Item 2
-    *Item 2a
-    *Item 2b
+* Item 1
+* Item 2
+    * Item 2a
+    * Item 2b
     
-###Ordered
+### Ordered
 1. Item 1
 2. Item 2
 2. Item 3
@@ -30,7 +30,7 @@ _You **can** combile them_
    1. Item 3b
 
 ## Images
-![GitHub Logo] (/images/logo.png)
+! [GitHub Logo] (/images/logo.png)
 Format: ![Alt Text] (url)
 
 ## Links
